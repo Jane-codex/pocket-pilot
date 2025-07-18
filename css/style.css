@@ -7,7 +7,7 @@
     margin: 0;
     box-sizing: border-box;
    }
-   
+
 
     html {
       scroll-behavior: smooth;
@@ -195,7 +195,7 @@
 
        
    .dark-mode .tagline {
-    color: #ccc; 
+    color: white; 
       }
 
  
